@@ -5,10 +5,10 @@ it look like a kernel panic when someone tries to touch it
 ### Setup:
 Clone the repo and replace screen.png with a screenshot of your desktop
 
-###Dependencies:
+### Dependencies:
 ```Python```
 
-###Usage:
+### Usage:
 ```python glitchlock.py```
 
 You can turn it off with Win+Ctrl+L
