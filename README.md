@@ -1,8 +1,15 @@
 # GlitchLock
-A simple python tool that locks your PC and it looks like a kernel panic happened when someone tries to touch it
+A simple prank python tool that locks your PC and makes
+it looks like a kernel panic happened when someone tries to touch it
 
 ### Setup:
 Clone the repo and replace screen.png with a screenshot of your desktop
+
+###Dependencies:
+```Python```
+
+###Usage:
+```python glitchlock.py```
 
 You can turn it off with Win+Ctrl+L
 
